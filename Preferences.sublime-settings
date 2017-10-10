@@ -1,0 +1,20 @@
+{
+	"color_scheme": "Packages/Monokai - Spacegray/Monokai - Spacegray Eighties.tmTheme",
+	"font_size": 12,
+	"ignored_packages":
+	[
+		"PHP",
+		"Vintage"
+	],
+	"line_padding_bottom": 2,
+	"line_padding_top": 2,
+	"margin": 0,
+	"material_theme_accent_scrollbars": true,
+	"material_theme_big_fileicons": true,
+	"material_theme_bold_tab": true,
+	"material_theme_compact_sidebar": true,
+	"material_theme_small_tab": true,
+	"material_theme_tree_headings": true,
+	"theme": "Material-Theme-Darker.sublime-theme",
+	"word_separators": "./\\()\"':,.;<>~!@#$%^&*|+=[]{}`~?"
+}
